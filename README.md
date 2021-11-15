@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JanBrzez
+- 👋 Hi, I’m @JanBrzezinski
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning programming in C++
+- 🌱 I’m currently learning programming in JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
